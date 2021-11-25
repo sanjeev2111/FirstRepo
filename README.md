@@ -22,7 +22,6 @@ making change in branch sa1
 
 meaking new change again in branch sa2
 
-
-
+ading this branch to remote repo branch
 
 
